@@ -9,3 +9,9 @@
 ul.no-bullets{
     list-style-type: none;
 }
+
+#buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
