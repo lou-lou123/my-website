@@ -2,6 +2,10 @@
     text-align: center;
 }
 
+.container{
+    border: 1px solid orange;
+}
+
 .center{
     text-align: center;
 }
