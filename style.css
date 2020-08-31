@@ -1,0 +1,11 @@
+#heading{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+ul.no-bullets{
+    list-style-type: none;
+}
